@@ -1,0 +1,7 @@
+{
+  "name": "com.earlycross.script-encoder",
+  "version": "1.0.0",
+  "displayName": "Script Encoder",
+  "description": "Correct the encoding and line feed code of the script",
+  "unity": "2020.3"
+}
